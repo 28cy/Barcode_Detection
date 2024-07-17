@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/CS373_2023_Assignment_Barcode_Detection-main/imageIO"
+		},
+		{
+			"path": "../../../Desktop/CS373_2023_Assignment_Barcode_Detection-main/images"
+		},
+		{
+			"path": "../../../Desktop/CS373_2023_Assignment_Barcode_Detection-main/output_images"
+		}
+	],
+	"settings": {}
+}
